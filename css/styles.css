@@ -52,8 +52,7 @@ letter-spacing: 0.03em;
 color: #2196F3;
 text-decoration: none;
 margin-right: 93px;
-padding-top: 24px;
-padding-bottom:25px;
+
 
 
 }
@@ -204,6 +203,8 @@ letter-spacing: 0.02em;
 color:#757575;
 padding-top:32px;
 padding-bottom:32px;
+display: flex;
+align-items: center;
 }
 
 .contacs-link:hover, .contacs-link:focus {
@@ -345,7 +346,7 @@ padding-bottom: 94px;
 }
 
 .team-soc-icon {
-  color: #afb1b8;
+
   fill: currentColor;
 }
   
@@ -487,8 +488,8 @@ display: flex;
 
 
 .details {
- margin: 0 0 0 0;
-  display: inline-block;
+ margin-bottom: 20px;
+ display: inline-block;
   
 }
 
@@ -548,9 +549,8 @@ margin-bottom: 9px;
 
 
 .footer-soc {
-margin-top:12px;
 margin-right: auto;
-margin-top: 40px;
+padding-top: 12px;
 margin-left: 70px
 
 
